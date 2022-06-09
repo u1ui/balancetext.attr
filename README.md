@@ -21,3 +21,4 @@ Adobe who made the script that is used: https://github.com/adobe/balance-text
 ## Demos
 https://raw.githack.com/u1ui/balancetext.attr/main/tests/minimal.html  
 https://raw.githack.com/u1ui/balancetext.attr/main/tests/test.html  
+
