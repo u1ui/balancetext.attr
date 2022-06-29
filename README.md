@@ -21,8 +21,8 @@ balances text
 
 ## Demos
 
-[minimal.html](https://raw.githack.com/u1ui/balancetext.attr/main/tests/minimal.html)  
-[test.html](https://raw.githack.com/u1ui/balancetext.attr/main/tests/test.html)  
+[minimal.html](http://gcdn.li/u1ui/balancetext.attr/main/tests/minimal.html)  
+[test.html](http://gcdn.li/u1ui/balancetext.attr/main/tests/test.html)  
 
 ## About
 
