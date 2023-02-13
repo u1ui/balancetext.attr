@@ -16,7 +16,7 @@ balances text
 ## Install
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/u1ui/balancetext.attr@2.0.0/balancetext.min.js" type=module>
+<script src="https://cdn.jsdelivr.net/gh/u1ui/balancetext.attr@x.x.x/balancetext.min.js" type=module>
 ```
 
 ## Demos
