@@ -5,6 +5,7 @@ balances text
 
 - Beautiful balanced texts
 - Redraws text on resize using ResizeObserver
+- In the future we can use css [text-wrap:balance](https://groups.google.com/a/chromium.org/g/blink-dev/c/yEwHDXaRIF8/m/3n8ENrVlAwAJ)
 
 ## Ussage
 
@@ -32,4 +33,3 @@ balances text
 ## Thanks
 
 Adobe who made the script that is used: https://github.com/adobe/balance-text
-
