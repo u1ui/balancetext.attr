@@ -10,7 +10,7 @@ balances text
 ## Ussage
 
 ```html
-<h1 u1-balancetext>Ugly long title that would look really bad!</h1>
+<h1 u1-balancetext>Ugly quite long title that would look really bad!</h1>
 <p u1-balancetext style="text-align:justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, nisl eget consectetur consectetur, nisi nisl aliquet nunc, euismod aliquet nunc nisi euismod. Donec euismod, nisl eget consectetur consectetur, nisi nisl aliquet nunc, euismod aliquet nunc nisi euismod.</p>
 ```
 
