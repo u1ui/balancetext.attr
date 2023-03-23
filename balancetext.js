@@ -1,7 +1,3 @@
-//import {SelectorObserver} from 'https://cdn.jsdelivr.net/gh/u1ui/SelectorObserver.js@3.5.0/SelectorObserver.min.js'
-
-// https://cdn.jsdelivr.net/npm/wicg-inert@2.1.2/dist/inert.min.js
-
 import {SelectorObserver} from 'https://cdn.jsdelivr.net/gh/u1ui/SelectorObserver.js@3.6.0/SelectorObserver.min.js'
 
 const resizeObs = new ResizeObserver(entries => {
