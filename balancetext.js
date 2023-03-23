@@ -1,3 +1,4 @@
+//import {SelectorObserver} from 'https://cdn.jsdelivr.net/gh/u1ui/SelectorObserver.js@3.5.0/SelectorObserver.min.js'
 import {SelectorObserver} from 'https://cdn.jsdelivr.net/gh/u1ui/SelectorObserver.js@3.6.0/SelectorObserver.min.js'
 
 const resizeObs = new ResizeObserver(entries => {
