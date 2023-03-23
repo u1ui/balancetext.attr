@@ -1,6 +1,9 @@
 //import {SelectorObserver} from 'https://cdn.jsdelivr.net/gh/u1ui/SelectorObserver.js@3.4.0/SelectorObserver.min.js'
 import {SelectorObserver} from 'https://cdn.jsdelivr.net/gh/u1ui/SelectorObserver.js@3.6.0/SelectorObserver.min.js'
 
+
+import {Selection} FROM 'http://gcdn.li/u1ui/SelectorObserver.js@3.3.3/SelectorObserver.js';
+
 const resizeObs = new ResizeObserver(entries => {
     for (const entry of entries) balanceText(entry.target);
 });
