@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded',balanceAll, {once:true});
 document.addEventListener('load',balanceAll, {once:true});
 
 function balanceText(el){
-    require('https://cdn.jsdelivr.net/npm/balance-text@3.3.1/balancetext.min.js').then(balText=>{
+    require('https://cdn.jsdelivr.net/npm/balance-text@13.3.1/balancetext.min.js').then(balText=>{
         balText(el);
         balanceText = balText;
     });
