@@ -31,7 +31,7 @@ function balanceText(el){
 }
 
 /*
-require('https://cdn.jsdelivr.net/npm/balance-text@x3.3.1/balancetext.min.js').then(balText=>{
+require('https://cdn.jsdelivr.net/npm/balance-text@3.3.1/balancetext.min.js').then(balText=>{
     balText('[u1-balancetext]', {watch:true});
 });
 */
