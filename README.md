@@ -33,4 +33,3 @@ balances text
 ## Thanks
 
 Adobe who made the script that is used: https://github.com/adobe/balance-text
-

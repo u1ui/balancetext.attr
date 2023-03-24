@@ -16,7 +16,6 @@ const selObs = new SelectorObserver({
 });
 selObs.observe('[u1-balancetext]');
 
-
 function balanceAll(){
     for (let el of selObs.targets) balanceText(el);
 }
@@ -24,7 +23,7 @@ document.addEventListener('DOMContentLoaded',balanceAll, {once:true});
 document.addEventListener('load',balanceAll, {once:true});
 
 function balanceText(el){
-    require('https://cdn.jsdelivr.net/npm/balance-text@13.3.1/balancetext.min.js').then(balText=>{
+    require('https://cdn.jsdelivr.net/npm/balance-text@3.3.1/balancetext.min.js').then(balText=>{
         balText(el);
         balanceText = balText;
     });
