@@ -1,7 +1,8 @@
 # [u1-balancetext] - attribute
 balances text
 
-> :warning: **Deprecated**: This project is deprecated due to issues with the library used, and because both Chrome and Firefox have natively implemented this feature using `text-wrap: balanced`. We recommend using these native CSS features for future projects.
+> [!WARNING]
+> **Deprecated**: This project is deprecated due to issues with the library used, and because both Chrome, Firefox and soon Safari have natively implemented this feature using `text-wrap: balanced`. We recommend using these native CSS features for future projects.
 
 ## Features
 
